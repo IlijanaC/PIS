@@ -1,0 +1,76 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" scale="1" border="0" version="27.0.8">
+  <diagram name="Page-1" id="K1WfGlNDYLRK4Kj6BAQg">
+    <mxGraphModel dx="1042" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tDoVwQjd5mt5976xLAWO-1" value="Informacijski sustav za Salon ljepote" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="338" y="250" width="175" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tDoVwQjd5mt5976xLAWO-2" value="Klijenti" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="365" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tDoVwQjd5mt5976xLAWO-3" value="Zaposlenici" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="265" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tDoVwQjd5mt5976xLAWO-4" value="Vlasnik" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="700" y="265" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tDoVwQjd5mt5976xLAWO-12" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="240" as="sourcePoint" />
+            <mxPoint x="410" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tDoVwQjd5mt5976xLAWO-13" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="100" as="sourcePoint" />
+            <mxPoint x="440" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tDoVwQjd5mt5976xLAWO-14" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="280" as="sourcePoint" />
+            <mxPoint x="330" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tDoVwQjd5mt5976xLAWO-15" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="300" as="sourcePoint" />
+            <mxPoint x="160" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tDoVwQjd5mt5976xLAWO-16" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="280" as="sourcePoint" />
+            <mxPoint x="690" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tDoVwQjd5mt5976xLAWO-17" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="300" as="sourcePoint" />
+            <mxPoint x="530" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tDoVwQjd5mt5976xLAWO-18" value="Zahtjev za rezervaciju,&lt;div&gt;&amp;nbsp;Korisnički podaci,&lt;/div&gt;&lt;div&gt;&amp;nbsp;Pregled usluga,&lt;/div&gt;&lt;div&gt;&amp;nbsp;Povratne informacije&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="110" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tDoVwQjd5mt5976xLAWO-19" value="Potvrda rezervacije,&lt;div&gt;&amp;nbsp;Obavijesti o terminima,&lt;/div&gt;&lt;div&gt;&amp;nbsp;Informacije o uslugama&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="240" y="110" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tDoVwQjd5mt5976xLAWO-20" value="Podaci o pruženim uslugama" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="158" y="235" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tDoVwQjd5mt5976xLAWO-21" value="Raspored rada" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="190" y="310" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tDoVwQjd5mt5976xLAWO-22" value="Upravljački podaci (postavke sustava,&lt;div&gt;&amp;nbsp;usluge, cijene),&lt;div&gt;&amp;nbsp;Zahtjev za izvještajima&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="500" y="340" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tDoVwQjd5mt5976xLAWO-23" value="Izvještaji o poslovanju,&amp;nbsp;&lt;div&gt;Podaci o naplati&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="535" y="225" width="150" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
